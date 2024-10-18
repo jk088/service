@@ -1,0 +1,11 @@
+h1{
+    color: rgb(79, 140, 255);
+    text-align: center;
+}
+body{
+    background-image: url(fotos/IMG-20241018-WA0008.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
